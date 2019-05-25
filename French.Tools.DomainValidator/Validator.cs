@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Credpay.Tools.DomainValidator.Interfaces;
+using French.Tools.DomainValidator.Interfaces;
 
-namespace Credpay.Tools.DomainValidator
+namespace French.Tools.DomainValidator
 {
     public abstract class Validator<TEntity> : IValidator<TEntity> where TEntity : class
     {

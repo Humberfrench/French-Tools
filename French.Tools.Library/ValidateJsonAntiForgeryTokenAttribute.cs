@@ -2,7 +2,7 @@
 using System.Web.Helpers;
 using System.Web.Mvc;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     [AttributeUsage(AttributeTargets.Method | AttributeTargets.Class, AllowMultiple = false, Inherited = true)]
     public class ValidateJsonAntiForgeryTokenAttribute : FilterAttribute, IAuthorizationFilter

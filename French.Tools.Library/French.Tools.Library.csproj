@@ -7,8 +7,8 @@
     <ProjectGuid>{BDD9CFB7-0A84-4AF1-AE80-91EB661706A2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Credpay.Tools.Library</RootNamespace>
-    <AssemblyName>Credpay.Tools.Library</AssemblyName>
+    <RootNamespace>French.Tools.Library</RootNamespace>
+    <AssemblyName>French.Tools.Library</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -121,9 +121,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Credpay.Tools.Extensions\Credpay.Tools.Extensions.csproj">
+    <ProjectReference Include="..\French.Tools.Extensions\French.Tools.Extensions.csproj">
       <Project>{2474f39f-cfbf-430f-9c4d-e898c6a96486}</Project>
-      <Name>Credpay.Tools.Extensions</Name>
+      <Name>French.Tools.Extensions</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     public static class CreditCardValidator
     {

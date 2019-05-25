@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 using System.Web.Helpers;
 using System.Web.Mvc;
 
-namespace Credpay.Tools.Extensions
+namespace French.Tools.Extensions
 {
     public static class Extensions
     {

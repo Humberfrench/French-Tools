@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 
-namespace Credpay.Tools.DomainValidator
+namespace French.Tools.DomainValidator
 {
     [Serializable]
     public class ValidationResult

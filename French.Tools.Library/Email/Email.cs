@@ -1,4 +1,4 @@
-﻿namespace Credpay.Tools.Library.Email
+﻿namespace French.Tools.Library.Email
 {
     public class Email
     {

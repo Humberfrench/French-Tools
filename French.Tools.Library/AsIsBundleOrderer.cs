@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Web.Optimization;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     public class AsIsBundleOrderer : IBundleOrderer
     {

@@ -4,9 +4,9 @@ using System.Net.Http;
 using System.Threading;
 using System.Web.Http;
 using System.Web.Http.Controllers;
-using static Credpay.Tools.Extensions.AppSettings;
+using static French.Tools.Extensions.AppSettings;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, Inherited = true, AllowMultiple = true)]
     public sealed class CustomAuthorizeAttribute : AuthorizeAttribute

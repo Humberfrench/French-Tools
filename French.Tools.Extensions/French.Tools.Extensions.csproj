@@ -7,8 +7,8 @@
     <ProjectGuid>{2474F39F-CFBF-430F-9C4D-E898C6A96486}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Credpay.Tools.Extensions</RootNamespace>
-    <AssemblyName>Credpay.Tools.Extensions</AssemblyName>
+    <RootNamespace>French.Tools.Extensions</RootNamespace>
+    <AssemblyName>French.Tools.Extensions</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

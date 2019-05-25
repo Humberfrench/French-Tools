@@ -1,4 +1,4 @@
-﻿namespace Credpay.Tools.DomainValidator.Interfaces
+﻿namespace French.Tools.DomainValidator.Interfaces
 {
     public interface IRule<in TEntity>
     {

@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     [Serializable]
     public class BreadCrumb

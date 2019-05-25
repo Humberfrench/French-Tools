@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using System.Web.Mvc.Html;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     public static class ViewExtentions
     {

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     /// <summary>
     /// Classe de recurso para formatar a view para excel

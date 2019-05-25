@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Reflection;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     public static class GetEnumDescription
     {

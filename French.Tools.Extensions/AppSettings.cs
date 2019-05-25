@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace Credpay.Tools.Extensions
+namespace French.Tools.Extensions
 {
     public static class AppSettings
     {

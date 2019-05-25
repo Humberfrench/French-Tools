@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Credpay.Tools.DomainValidator
+namespace French.Tools.DomainValidator
 {
     [Serializable]
     public class ValidationError

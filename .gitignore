@@ -1,3 +1,6 @@
 French.Tools.DomainValidator/bin/
 French.Tools.Extensions/bin/
 French.Tools.Library/bin/
+French.Tools.Extensions/obj/
+French.Tools.Library/obj/
+French.Tools.DomainValidator/obj/

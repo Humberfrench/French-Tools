@@ -1,10 +1,10 @@
-﻿using Credpay.Tools.Extensions;
+﻿using French.Tools.Extensions;
 using System;
 using System.Net;
 using System.Net.Mail;
 using WebGrease.Css.Extensions;
-using static Credpay.Tools.Extensions.AppSettings;
-namespace Credpay.Tools.Library.Email
+using static French.Tools.Extensions.AppSettings;
+namespace French.Tools.Library.Email
 {
     public class MailSender
     {
@@ -44,7 +44,7 @@ namespace Credpay.Tools.Library.Email
                     Priority = MailPriority.High,
                     Bcc =
                     {
-                        "pagamentos@credpay.com.br"
+                        "pagamentos@French.com.br"
                     }
                 };
 
@@ -114,9 +114,9 @@ namespace Credpay.Tools.Library.Email
                     Priority = MailPriority.High,
                     Bcc =
                     {
-                        "pagamentos@credpay.com.br",
-                        "humberto.almeida@credpay.com.br",
-                        "andre@credpay.com.br"
+                        "pagamentos@French.com.br",
+                        "humberto.almeida@French.com.br",
+                        "andre@French.com.br"
                     }
                 };
 

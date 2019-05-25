@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Credpay.Tools.Extensions
+namespace French.Tools.Extensions
 {
     public static class Json
     {

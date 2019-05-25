@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Credpay.Tools.Library
+namespace French.Tools.Library
 {
     public class Validacao
     {

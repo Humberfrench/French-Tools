@@ -1,6 +1,6 @@
-﻿using Credpay.Tools.DomainValidator.Interfaces;
+﻿using French.Tools.DomainValidator.Interfaces;
 
-namespace Credpay.Tools.DomainValidator
+namespace French.Tools.DomainValidator
 {
     public class Rule<TEntity> : IRule<TEntity>
     {
