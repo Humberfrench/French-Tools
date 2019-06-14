@@ -752,6 +752,27 @@ namespace French.Tools.Extensions
             }
             return "Não";
         }
+        public static int BitToInt(this bool boolValue)
+        {
+            if (boolValue)
+            {
+                return 1;
+            }
+            return 0;
+        }
+
+        public static int BitToInt(this bool? boolValue)
+        {
+            if (boolValue.HasValue)
+            {
+                if (boolValue.Value)
+                {
+                    return 1;
+                }
+                return 0;
+            }
+            return 0;
+        }
 
         public static int Int(this Enum enumer)
         {
