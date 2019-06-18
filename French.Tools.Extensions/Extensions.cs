@@ -752,6 +752,16 @@ namespace French.Tools.Extensions
             }
             return "Não";
         }
+
+        public static string ToSimNaoIcon(this bool boolValue)
+        {
+            if (boolValue)
+            {
+                return "<i class='fa fa-check' data-toggle='tooltip' data-placement='top'>";
+            }
+            return "<i class='fa fa-ban' data-toggle='tooltip' data-placement='top'>";
+        }
+
         public static int BitToInt(this bool boolValue)
         {
             if (boolValue)
